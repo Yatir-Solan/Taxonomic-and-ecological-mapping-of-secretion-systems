@@ -16,4 +16,5 @@ Rather than a given product, the materials available in this repository are give
 - **figures_scripts** - Jupyter notebooks and other scripts for code-generated main figures (Figure 2, Figure 3, Figure 4, Figure 5).
 
 <h3>Citation</h3>
+
 The manuscript describing this project is currently undergoing peer review. Citation or scientific usage of these materials will become optional in the future.
