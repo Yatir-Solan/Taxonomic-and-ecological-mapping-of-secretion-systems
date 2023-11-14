@@ -7,13 +7,13 @@ Rather than a given product, the materials available in this repository are give
 
 <h3>Files guide</h3>
 
-- bio_utilities - general auxiliary scripts handling specific biological and bioinformatics content, such as GFF parsers, genomic databases, taxonomical issues, etc.
+- **bio_utilities** - general auxiliary scripts handling specific biological and bioinformatics content, such as GFF parsers, genomic databases, taxonomical issues, etc.
 
-- cluster_utilities - general auxiliary scripts handling computational issues within the lab cluster.
+- **cluster_utilities** - general auxiliary scripts handling computational issues within the lab cluster.
   
-- research_pipleine_scripts - the actual scripts to run the project. For a better understanding, follow the "main.py" script, where other scripts and functions are called.
+- **research_pipleine_scripts** - the actual scripts to run the project. For a better understanding, follow the "main.py" script, where other scripts and functions are called.
   
-- figures_scripts - Jupyter notebooks and other scripts for code-generated main figures (Figure 2, Figure 3, Figure 4, Figure 5).
+- **figures_scripts** - Jupyter notebooks and other scripts for code-generated main figures (Figure 2, Figure 3, Figure 4, Figure 5).
 
 <h3>Citation</h3>
 The manuscript describing this project is currently undergoing peer review. Citation or scientific usage of these materials will become optional in the future.
