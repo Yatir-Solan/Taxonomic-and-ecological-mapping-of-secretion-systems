@@ -20,7 +20,7 @@ start_of_line <- setdiff(c(1:391), end_of_line)
 old_labels <- tree$tip.label
 new_labels <- tree$tip.label
 
-max_label = max(nchar(tree$tip.label))
+max_label <- max(nchar(tree$tip.label))
 new_labels[end_of_line] <- unlist(lapply(X=end_of_line, FUN=function(x) str_pad(string=new_labels[x], width=max_label, side='left', pad='-')))            
 new_labels[start_of_line] <- unlist(lapply(X=start_of_line, FUN=function(x) str_pad(string=new_labels[x], width=max_label, side='right', pad='-')))       
 new_labels[354] <- str_pad(substring(new_labels[354], 1, max_label-8), width=max_label, side='right', pad=' ')                                            
