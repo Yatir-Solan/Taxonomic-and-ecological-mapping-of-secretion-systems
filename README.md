@@ -11,9 +11,9 @@ Rather than a given product, the materials available in this repository are give
 
 - **cluster_utilities** - general auxiliary scripts handling computational issues within the lab cluster.
   
-- **research_pipleine_scripts** - the actual scripts to run the project. For a better understanding, follow the "main.py" script, where other scripts and functions are called.
+- **research_pipleine_scripts** - the actual scripts to run the project. For a better understanding, follow the "main.py" script, where other scripts and functions are called from.
   
-- **figures_scripts** - Jupyter notebooks and other scripts for code-generated main figures (Figure 2, Figure 3, Figure 4, Figure 5).
+- **figures_scripts** - Jupyter notebooks and other scripts for code-generated figures (Figure 2, Figure 3, Figure 4, Figure 5).
 
 <h3>Citation</h3>
 
